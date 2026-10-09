@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+# Generated data (rebuild with the pipeline scripts)
+data/
